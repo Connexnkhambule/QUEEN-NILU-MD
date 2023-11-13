@@ -53,7 +53,7 @@ global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'connex nkhambule  © 2023' // Caption
+global.CAPTION = 'connex nkhambule ©2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
@@ -63,7 +63,7 @@ global.MAX_SIZE = '400' // Bot Uloading Max size
 
 global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
 global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
 
